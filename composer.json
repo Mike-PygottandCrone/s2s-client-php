@@ -1,7 +1,7 @@
 {
     "name": "Mike-PygottandCrone/s2s-client-php",
     "type": "library",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "minimum-stability": "stable",
     "license": "MIT",
     "homepage": "http://wildix.com/",
